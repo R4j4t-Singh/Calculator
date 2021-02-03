@@ -29,7 +29,7 @@ int main()
              break;        
 }
 
-    cout<<"  \n\n\n\n";    
+    cout<<"\n\n\n\n";    
     }
 
 
