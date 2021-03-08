@@ -1,4 +1,4 @@
-# Calculator
-Normal Calculator
-For beginners 
-Modify calculator.cpp according to you.
+# Calculator 
+Simple Calculator,
+For beginners ,
+Only C
