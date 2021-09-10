@@ -1,4 +1,4 @@
 # Calculator 
-Simple Calculator,
+Calculator,
 For beginners ,
-Only C
+C++
